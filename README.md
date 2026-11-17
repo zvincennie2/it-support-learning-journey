@@ -1,2 +1,18 @@
-# it-support-learning-journey
-My beginner IT support learning projects and documentation.
+# IT Support Learning Journey
+
+## About Me
+I am building my skills in IT Support
+and technical troubleshooting.
+
+## Skills I'm Developing
+- GitHub fundamentals
+- Technical documentation
+- Troubleshooting
+- Version control
+
+## Projects
+More projects coming soon!
+
+## Goals
+Build practical IT skills and create
+a professional technical portfolio.
